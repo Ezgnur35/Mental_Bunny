@@ -130,11 +130,8 @@ Uygulama Convex üzerinde aşağıdaki tabloları kullanmaktadır:
 
 ---
 
-## 👩‍💻 Geliştirici
 
-Bu proje bir ders projesi kapsamında geliştirilmiştir.
 
----
 
 ## 📄 Lisans
 
