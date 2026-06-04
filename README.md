@@ -9,31 +9,31 @@ Bu proje, Expo ve React Native kullanılarak geliştirilmiş olup backend için 
 ## 📸 Ekran Görüntüleri
 
 ### Giriş Ekranı
-![giriş_yap](https://github.com/user-attachments/assets/db83ef3a-cddf-42b9-98a1-49567b9ef22c)
+<img src="https://github.com/user-attachments/assets/db83ef3a-cddf-42b9-98a1-49567b9ef22c" width="250" />
 
 ### Kayıt Ol Ekranı
-![kayit_OL](https://github.com/user-attachments/assets/f4e906b5-90c9-43b6-a091-bc2fa886c38a)
+<img src="https://github.com/user-attachments/assets/f4e906b5-90c9-43b6-a091-bc2fa886c38a" width="250" />
 
 ### Ana Sayfa
-![ANASAYFA](https://github.com/user-attachments/assets/68bccef6-8981-4ed9-ac9d-9689aa0fe907)
+<img src="https://github.com/user-attachments/assets/68bccef6-8981-4ed9-ac9d-9689aa0fe907" width="250" />
 
 ### Nefes Egzersizi
-![NEFES](https://github.com/user-attachments/assets/0038187c-d85f-47be-af01-f3f955d3a8f5)
+<img src="https://github.com/user-attachments/assets/0038187c-d85f-47be-af01-f3f955d3a8f5" width="250" />
 
 ### Grounding (5-4-3-2-1 Tekniği)
-![GROUND](https://github.com/user-attachments/assets/c9fb257e-4348-487c-b5ec-4b7d93ed8806)
+<img src="https://github.com/user-attachments/assets/c9fb257e-4348-487c-b5ec-4b7d93ed8806" width="250" />
 
 ### Brain Dump (Düşünce Boşaltma)
-![KAVANOZ](https://github.com/user-attachments/assets/1aa9dc25-6b47-47aa-9f31-361e7d6ce625)
+<img src="https://github.com/user-attachments/assets/1aa9dc25-6b47-47aa-9f31-361e7d6ce625" width="250" />
 
 ### Günlük (Journal)
-![GUNLUK](https://github.com/user-attachments/assets/b0b3b9c5-d1fc-48e9-931d-d92e595b7a97)
+<img src="https://github.com/user-attachments/assets/b0b3b9c5-d1fc-48e9-931d-d92e595b7a97" width="250" />
 
 ### Ayarlar Ekranı
-![ayarlare](https://github.com/user-attachments/assets/94a6e1fe-4f3d-4c26-8617-d0e51d3124ce)
+<img src="https://github.com/user-attachments/assets/94a6e1fe-4f3d-4c26-8617-d0e51d3124ce" width="250" />
 
 ### Aydınlık Tema
-![aydınlık](https://github.com/user-attachments/assets/1e927420-9402-4ce6-99f7-c0ce490ac566)
+<img src="https://github.com/user-attachments/assets/1e927420-9402-4ce6-99f7-c0ce490ac566" width="250" />
 
 ---
 
