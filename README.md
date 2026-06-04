@@ -9,67 +9,31 @@ Bu proje, Expo ve React Native kullanılarak geliştirilmiş olup backend için 
 ## 📸 Ekran Görüntüleri
 
 ### Giriş Ekranı
-<!-- Buraya giriş ekranının görüntüsünü ekleyin -->
-```
-        <img width="955" height="2048" alt="giriş_yap" src="https://github.com/user-attachments/assets/db83ef3a-cddf-42b9-98a1-49567b9ef22c" />
-  
-```
+![giriş_yap](https://github.com/user-attachments/assets/db83ef3a-cddf-42b9-98a1-49567b9ef22c)
 
 ### Kayıt Ol Ekranı
-<!-- Buraya ana sayfanın görüntüsünü ekleyin -->
-```
-<img width="955" height="2048" alt="kayit_OL" src="https://github.com/user-attachments/assets/f4e906b5-90c9-43b6-a091-bc2fa886c38a" />
-
-
-```
+![kayit_OL](https://github.com/user-attachments/assets/f4e906b5-90c9-43b6-a091-bc2fa886c38a)
 
 ### Ana Sayfa
-<!-- Buraya ruh hali seçim ekranının görüntüsünü ekleyin -->
-```
- <img width="955" height="2048" alt="ANASAYFA" src="https://github.com/user-attachments/assets/68bccef6-8981-4ed9-ac9d-9689aa0fe907" />
-```
+![ANASAYFA](https://github.com/user-attachments/assets/68bccef6-8981-4ed9-ac9d-9689aa0fe907)
 
 ### Nefes Egzersizi
-<!-- Buraya nefes egzersizi ekranının görüntüsünü ekleyin -->
-```
-<img width="1080" height="2316" alt="NEFES" src="https://github.com/user-attachments/assets/0038187c-d85f-47be-af01-f3f955d3a8f5" />
-
-```
+![NEFES](https://github.com/user-attachments/assets/0038187c-d85f-47be-af01-f3f955d3a8f5)
 
 ### Grounding (5-4-3-2-1 Tekniği)
-<!-- Buraya grounding ekranının görüntüsünü ekleyin -->
-```
-<img width="955" height="2048" alt="GROUND" src="https://github.com/user-attachments/assets/c9fb257e-4348-487c-b5ec-4b7d93ed8806" />
-
-```
+![GROUND](https://github.com/user-attachments/assets/c9fb257e-4348-487c-b5ec-4b7d93ed8806)
 
 ### Brain Dump (Düşünce Boşaltma)
-<!-- Buraya brain dump ekranının görüntüsünü ekleyin -->
-```
-<img width="955" height="2048" alt="KAVANOZ" src="https://github.com/user-attachments/assets/1aa9dc25-6b47-47aa-9f31-361e7d6ce625" />
-
-```
+![KAVANOZ](https://github.com/user-attachments/assets/1aa9dc25-6b47-47aa-9f31-361e7d6ce625)
 
 ### Günlük (Journal)
-<!-- Buraya günlük ekranının görüntüsünü ekleyin -->
-```
-<img width="955" height="2048" alt="GUNLUK" src="https://github.com/user-attachments/assets/b0b3b9c5-d1fc-48e9-931d-d92e595b7a97" />
-
-```
+![GUNLUK](https://github.com/user-attachments/assets/b0b3b9c5-d1fc-48e9-931d-d92e595b7a97)
 
 ### Ayarlar Ekranı
-<!-- Buraya tema değişikliğinin görüntüsünü ekleyin -->
-```
-<img width="955" height="2048" alt="ayarlare" src="https://github.com/user-attachments/assets/94a6e1fe-4f3d-4c26-8617-d0e51d3124ce" />
-
-```
+![ayarlare](https://github.com/user-attachments/assets/94a6e1fe-4f3d-4c26-8617-d0e51d3124ce)
 
 ### Aydınlık Tema
-<!-- Buraya tema değişikliğinin görüntüsünü ekleyin -->
-```
-<img width="955" height="2048" alt="aydınlık" src="https://github.com/user-attachments/assets/1e927420-9402-4ce6-99f7-c0ce490ac566" />
-
-```
+![aydınlık](https://github.com/user-attachments/assets/1e927420-9402-4ce6-99f7-c0ce490ac566)
 
 ---
 
